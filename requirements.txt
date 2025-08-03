@@ -1,0 +1,6 @@
+sanic
+sqlalchemy
+asyncpg
+alembic
+python-dotenv
+passlib

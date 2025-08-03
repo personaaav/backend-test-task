@@ -1,2 +1,3 @@
-# backend-test-task
-Асинхронное REST API на Sanic с PostgreSQL, авторизацией и Docker
+# Backend Test Task
+
+Asynchronous REST API using Sanic...
